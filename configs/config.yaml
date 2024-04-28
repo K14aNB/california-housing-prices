@@ -1,0 +1,9 @@
+notebooks:
+  California-Housing-Prices:
+    data:
+      - source: 'kaggle-datasets'
+      - data-src-path: 'camnugent/california-housing-prices'
+    outputs:
+      - nb-html-preview: 'true'
+      - py-percent-script: 'true'
+      - output-path: 'Notebooks'
