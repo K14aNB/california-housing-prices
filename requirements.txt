@@ -1,7 +1,7 @@
 mlflow
-pandas
-scikit-learn
-seaborn
+pandas==2.2.2
+scikit-learn==1.4.2
+seaborn==0.13.1
 PyYAML
 download-kaggle-dataset @ git+https://github.com/K14aNB/download-kaggle-dataset.git@main
 env_setup @ git+https://github.com/K14aNB/setup-notebook-environment.git@main
