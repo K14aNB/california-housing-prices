@@ -1,3 +1,10 @@
+mlflow:
+  tracking-server: 'dagshub'
+  dagshub:
+    - repo-owner: 'K14aNB'
+    - experiment-name: 'California_Housing_Prices'
+    - dotenv-path: '~/.env/California-Housing-Prices/environment_variables.env'
+
 notebooks:
   California-Housing-Prices:
     data:
