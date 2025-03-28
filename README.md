@@ -21,7 +21,7 @@ The data contains information from the 1990 California census. So although it ma
 
 ## Exploratory Data Analysis
 
-**Notebook preview url** - https://k14anb.github.io/California-Housing-Prices/Notebooks/California-Housing-Prices.html
+**Notebook preview url** - [https://k14anb.github.io/California-Housing-Prices/Notebooks/California-Housing-Prices.html](https://k14anb.github.io/california-housing-prices/)
 
 ### Experiment Tracking
 **MLFlow UI** - https://dagshub.com/K14aNB/California-Housing-Prices.mlflow/#/experiments/0?viewStateShareKey=d537fdc0c959fa49a2e0b67727b54010fcd4ffd194d195a2598ac3fdf5c6e596
